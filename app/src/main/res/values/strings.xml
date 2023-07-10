@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Biblioteca</string>
+    <string name="str_btnbuscar">Buscar</string>
+    <string name="str_btnregistrar">Registrar</string>
+    <string name="str_btnlistar">Listar</string>
+
+    <string name="str_titulo">Titulo</string>
+    <string name="str_subtitulo">Subtitulo</string>
+    <string name="str_isbn">ISBN</string>
+    <string name="str_autor">Autor</string>
+    <string name="str_anio_publicacion">Año</string>
+    <string name="str_precio">Precio</string>
+
+    <string name="str_bienvenido">Bienvenido</string>
+    <string name="str_descripcion_imagen">Todo</string>
+    <string name="str_listarlibros">Listado de Libros</string>
+    <string name="str_gestionlibros">Gestión de libros</string>
+    <string name="str_buscarlibros">Buscar Libro por X titulo</string>
+    <string name="str_escribatitulo">Escriba el titulo a buscar</string>
+
+    <string name="str_escribirtitulo">Escriba el titulo deseado</string>
+    <string name="str_escribirsubtitulo">Escriba el subtitulo deseado</string>
+    <string name="str_escribirautor">Escriba el autor deseado</string>
+    <string name="str_escribirisbn">Escriba el ISBN deseado</string>
+    <string name="str_escribiranio_publicacion">Escriba el Año deseado</string>
+    <string name="str_escribirprecio">Escriba el precio deseado</string>
+
+    <string name="str_btnborrar">Borrar</string>
+    <string name="str_btnactualizar">Actualizar</string>
+    <string name="str_btnGuardar">Guardar</string>
+
+</resources>
